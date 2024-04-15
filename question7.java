@@ -27,5 +27,6 @@ public class question7 {
         {
             System.out.println("Fail");
         }
+        s.close();
     }    
 }
